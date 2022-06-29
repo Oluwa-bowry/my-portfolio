@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "BloomBlog",
+    subtitle: "Django and JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A blog built on django web framework, enlighten you on smart meters and other related posts. The webpage for users to post review about the implementation of new smart meters.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://serg-blog.herokuapp.com",
   },
   {
     title: "React Tracks",
@@ -36,25 +36,25 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "Your work ethcis, I can vouch for. You did a great project.",
+    //image: "https://randomuser.me/api/portraits/men/1.jpg",
+    name: "Johnson Moyinoluwa",
+    company: "Mcjohnson concept",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "Good job welldone.",
+    // image: "https://randomuser.me/api/portraits/men/94.jpg",
+    name: "Adeosun Oluwaseyi",
+    company: "SERG",
   },
 ];
 
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
+  "SQL",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "Python Django",
+  "JavaScript Animation",
 ];

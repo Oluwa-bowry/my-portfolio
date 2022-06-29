@@ -45,7 +45,7 @@ export default function Contact() {
               ADDRESS
             </h2>
             <p className="mt-1">
-              Futa Southgate ZTF Compd. <br />
+              02, Futa Southgate ZTF Compd. <br />
               Akure, Nigeria
             </p>
           </div>
@@ -53,7 +53,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
+              <a className="text-green-500 leading-relaxed">
                 clement.bowry@email.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
@@ -72,8 +72,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            Let's build amazing projects together. 
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
@@ -112,9 +111,10 @@ export default function Contact() {
               onChange={(e) => setMessage(e.target.value)}
             />
           </div>
+          {/* bg-indigo-500 hover:bg-indigo-600 */}
           <button
             type="submit"
-            className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+            className="text-white bg-green-500  border-0 py-2 px-6 focus:outline-none hover:bg-green-600  rounded text-lg"> 
             Submit
           </button>
         </form>
