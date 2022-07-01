@@ -9,17 +9,17 @@ export const projects = [
   },
   {
     title: "React Tracks",
-    subtitle: "React and Python",
+    subtitle: "React and JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A React app to keep track of personal information",
     image: "./project-2.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "",
     image: "./project-3.gif",
     link: "https://reactbootcamp.com",
   },
@@ -27,7 +27,7 @@ export const projects = [
     title: "Epic Todo App",
     subtitle: "React Hooks",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "",
     image: "./project-4.gif",
     link: "https://reactbootcamp.com",
   },
