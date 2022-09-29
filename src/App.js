@@ -16,7 +16,7 @@ export default function App() {
       <Skills />
       <Testimonials />
       <Contact />
-      <Employee />
+      {/* <Employee />
       <body class="h-screen flex flex-col justify-center items-center">
         <label class="text-gray-700 text-sm font-bold select-none" for="full_name">
         Full Name
@@ -27,7 +27,7 @@ export default function App() {
         <button class="mt-2 px-3 py-2 bg-blue-900 text-blue-100 rounded-lg">
         Save
         </button>
-      </body>
+      </body> */}
       {/* <body class="bg-gray-200">
        
         <div class="h-screen flex flex-wrap">
