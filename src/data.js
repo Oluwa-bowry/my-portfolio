@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "BloomBlog",
-    subtitle: "Django and JavaScript",
+    title: "NBA-Project",
+    subtitle: "Predict the next Hall of Fame",
     description:
-      "A blog built on django web framework, enlighten you on smart meters and other related posts. The webpage for users to post review about the implementation of new smart meters.",
+      "PREDICTING THE NEXT HALL OF FAME PLAYER USING LINEAR REGRESSION AND WEB SCRAPING ",
     image: "./project-1.gif",
-    link: "https://serg-blog.herokuapp.com",
+    link: "https://github.com/Oluwa-bowry/NBA_project",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and JavaScript",
+    title: "Blackcofferscraper",
+    subtitle: "Data Engineering",
     description:
-      "A React app to keep track of personal information",
+      "Web scraping with scraping and data analysis with python packages (numpy, pandas, matplotlib and seaborn).",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://drive.google.com/drive/folders/1SUSAI_gZGZDvbg81HZDvh6uZGLTc1PUg?usp=sharing",
   },
   {
-    title: "",
-    subtitle: "React",
+    title: "Colab Notebook",
+    subtitle: "Machine Learning.",
     description:
-      "",
+      "Predictive analysis with machine learning models and optimization algorithms.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://drive.google.com/drive/folders/1vKRgnY5KR5WeizjvtXuiBzCWlhJTfEMv?usp=sharing",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Data Analysis",
+    subtitle: "EDA",
     description:
       "",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://docs.google.com/document/d/1nuagCSjFo7UGfiCFxTPH1yXUVoaOzAxJ/edit?usp=sharing&ouid=108194875260226967220&rtpof=true&sd=true",
   },
 ];
 
@@ -51,10 +51,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
+  "Machine Learning Technology",
+  "Database Design Management",
   "SQL",
-  "Node",
-  "Python Django",
-  "JavaScript Animation",
+  "Data Engineering",
+  "Predictive Modelling",
+  "Web Scraping",
 ];
