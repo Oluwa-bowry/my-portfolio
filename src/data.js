@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Predict the next Hall of Fame",
     description:
       "PREDICTING THE NEXT HALL OF FAME PLAYER USING LINEAR REGRESSION AND WEB SCRAPING ",
-    image: "./project-1.gif",
+    image: "https://giphy.com/embed/1aHBiMZcGLxoTou3ox",
     link: "https://github.com/Oluwa-bowry/NBA_project",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Data Engineering",
     description:
       "Web scraping with scraping and data analysis with python packages (numpy, pandas, matplotlib and seaborn).",
-    image: "./project-2.gif",
+    image: "https://giphy.com/embed/1aHBiMZcGLxoTou3ox",
     link: "https://drive.google.com/drive/folders/1SUSAI_gZGZDvbg81HZDvh6uZGLTc1PUg?usp=sharing",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Machine Learning.",
     description:
       "Predictive analysis with machine learning models and optimization algorithms.",
-    image: "./project-3.gif",
+    image: "https://giphy.com/embed/qwoj30PAKtbAcIzVxK",
     link: "https://drive.google.com/drive/folders/1vKRgnY5KR5WeizjvtXuiBzCWlhJTfEMv?usp=sharing",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "EDA",
     description:
       "",
-    image: "./project-4.gif",
+    image: "https://giphy.com/embed/qwoj30PAKtbAcIzVxK",
     link: "https://docs.google.com/document/d/1nuagCSjFo7UGfiCFxTPH1yXUVoaOzAxJ/edit?usp=sharing&ouid=108194875260226967220&rtpof=true&sd=true",
   },
 ];
