@@ -4,46 +4,46 @@ export const projects = [
     subtitle: "Predict the next Hall of Fame",
     description:
       "PREDICTING THE NEXT HALL OF FAME PLAYER USING LINEAR REGRESSION AND WEB SCRAPING ",
-    image: "https://giphy.com/embed/1aHBiMZcGLxoTou3ox",
+    image: "https://photos.google.com/share/AF1QipNP3GYMBvKY6ucBlIs9DSzpi085q4blW1K6JUW41d6tTvf7ig060v_zY-pmujixyg/photo/AF1QipNvNEHMppiIKhAW6i9Yi4deQf06rZz-tlOVvb1o?key=YzVxc2tYeGk4dXNXbWFsV0pOMUNaYVgxbFhqN0Vn",
     link: "https://github.com/Oluwa-bowry/NBA_project",
   },
   {
     title: "Blackcofferscraper",
-    subtitle: "Data Engineering",
+    subtitle: "Data scraping, wrangling and analysis",
     description:
-      "Web scraping with scraping and data analysis with python packages (numpy, pandas, matplotlib and seaborn).",
-    image: "https://giphy.com/embed/1aHBiMZcGLxoTou3ox",
+      "Web scraping and analysis with python packages (selenium, scrapy, numpy, pandas, matplotlib and seaborn).",
+    image: "https://photos.google.com/share/AF1QipOAGBcteXpclCJTLPszkvFFJghrC21lbgUJUywz0jMIEoaz-yvvy-g3mOBPF9OoQA/photo/AF1QipOYVJcASrh-5Cysj-KorGoWpMDeLuYpRO4Whgvf?key=cW5KLXNuZWhRUFpFSHNBU1lCYXZaZ2Iyd0taczlR",
     link: "https://drive.google.com/drive/folders/1SUSAI_gZGZDvbg81HZDvh6uZGLTc1PUg?usp=sharing",
   },
   {
-    title: "Colab Notebook",
-    subtitle: "Machine Learning.",
+    title: "Automatic Speak Recognition",
+    subtitle: "Speech recognition model in noisy environment",
     description:
-      "Predictive analysis with machine learning models and optimization algorithms.",
-    image: "https://giphy.com/embed/qwoj30PAKtbAcIzVxK",
+      "To develop a machine learning techniques that can improve the robustness and accurracy in the presence of noise,",
+    image: "https://photos.google.com/share/AF1QipM2boBXnVpvM4Lid6e5gijv9utVnWqagGzKZ0ooY7Y70XftUjal8Z6jdPDsNeWt-w/photo/AF1QipPREiIMR6HT0XImTVgYRhs3IWipgw6YYYsb7-5D?key=NDJXMm56SzlUY2dxblhCX2FKMjVETjR0UlFKMUh3",
     link: "https://drive.google.com/drive/folders/1vKRgnY5KR5WeizjvtXuiBzCWlhJTfEMv?usp=sharing",
   },
   {
-    title: "Data Analysis",
-    subtitle: "EDA",
+    title: "Cell Segmentation",
+    subtitle: "Application of U-Net in Medical Image Analysis",
     description:
-      "",
-    image: "https://giphy.com/embed/qwoj30PAKtbAcIzVxK",
-    link: "https://docs.google.com/document/d/1nuagCSjFo7UGfiCFxTPH1yXUVoaOzAxJ/edit?usp=sharing&ouid=108194875260226967220&rtpof=true&sd=true",
+      "Training a U-Net model for multi-class segmentation of living and dead cells in medical images",
+    image: "https://photos.google.com/share/AF1QipMm2_NHxxEGFJY4vW6IXk4hp-i028HGRbVYjkR3ETz0_diKClwgst48Ux7JjU1QTg/photo/AF1QipOfzorlwQZvQ3mZfukSdGoZa8flWRqZ6OSMdiNr?key=Yk9kQnZWVUhlQnZHRzZ4LUc1UldaNzNqb0VLZzhR",
+    link: "https://medium.com/@clement.bowry/application-of-u-net-in-medical-image-analysis-bf12cf36cbc6",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Your work ethcis, I can vouch for. You did a great project.",
+      "Your work ethcis, I can vouch for. You did a great project. johnsonmoyinoluwa@gmail.com",
     //image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Johnson Moyinoluwa",
     company: "Mcjohnson concept",
   },
   {
     quote:
-      "Good job welldone.",
+      "Good job welldone. adeosun@gmail.com",
     // image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Adeosun Oluwaseyi",
     company: "SERG",
@@ -51,10 +51,16 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "Machine Learning Technology",
+  "Data Wrangling",
   "Database Design Management",
-  "SQL",
-  "Data Engineering",
-  "Predictive Modelling",
-  "Web Scraping",
+  "Statistical Analysis",
+  "Data Visualization",
+  "Data Analysis",
+  "Programming",
+  "Machine Learning",
+  "Deep Learning",
+  "Big Data Processing",
+  "Communication Skills",
+  "Problem Solving",
+  "Critical Thinking",
 ];
