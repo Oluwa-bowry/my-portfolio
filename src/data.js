@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "Application of U-Net in Medical Image Analysis",
     description:
       "Training a U-Net model for multi-class segmentation of living and dead cells in medical images",
-    image: "https://photos.google.com/share/AF1QipMm2_NHxxEGFJY4vW6IXk4hp-i028HGRbVYjkR3ETz0_diKClwgst48Ux7JjU1QTg/photo/AF1QipOfzorlwQZvQ3mZfukSdGoZa8flWRqZ6OSMdiNr?key=Yk9kQnZWVUhlQnZHRzZ4LUc1UldaNzNqb0VLZzhR",
+    image: "https://lh3.googleusercontent.com/pw/ABLVV85fvtcXJFbpngRq8ntpcqefAqsBKiz_jL_bkR-ZbsPW6PH_q8jYXjMRKm_qEjkyMaGhqtDDkgJQDInGoZqTCi09jUO1AZ70GpfaIWXSP72sdjWbd0Y=w1920-h1080",
     link: "https://medium.com/@clement.bowry/application-of-u-net-in-medical-image-analysis-bf12cf36cbc6",
   },
 ];
